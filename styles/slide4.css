@@ -3,8 +3,9 @@
 h1{
    font-family: "Honk"; 
    font-size: 30px;
-   margin-top: 100px;
+   margin-top: 145px;
    margin-bottom: -0px;
+
 }
 
 span{
@@ -19,13 +20,11 @@ span{
 body {
   margin: 0;
   text-align: center;
-  min-height: 80vh;
+  min-height: 50vh;
   align-items: center;
   justify-content: center;
   background: #0e0d0d;
   perspective: 1000px;
-    margin-top: 65px;
-
 }
 
 img{
@@ -46,7 +45,7 @@ button{
     border: 2px solid rgba(221, 135, 255, 0.815);
 
     background-color: transparent;
-    margin-top: 130px;
+    margin-top: 100px;
     
 }
 

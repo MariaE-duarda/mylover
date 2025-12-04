@@ -24,6 +24,8 @@ body {
   justify-content: center;
   background: #0e0d0d;
   perspective: 1000px;
+    margin-top: 65px;
+
 }
 
 img{
@@ -44,7 +46,8 @@ button{
     border: 2px solid rgba(221, 135, 255, 0.815);
 
     background-color: transparent;
-    margin-top: 110px;
+    margin-top: 130px;
+    
 }
 
 svg{

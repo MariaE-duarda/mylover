@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Honk&family=Quicksand:wght@300..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
-h1{
+.title{
    font-family: "Honk"; 
    font-size: 42px;
    padding: 15px;
@@ -8,7 +8,7 @@ h1{
    margin-bottom: -20px;
 }
 
-body {
+.body {
   margin: 0;
   text-align: center;
   min-height: 75vh;
@@ -18,7 +18,7 @@ body {
   perspective: 1000px;
 }
 
-.btn {
+.botao {
   position: relative;
   padding: 1.5rem 2.5rem;
   margin-left: 10px;
@@ -35,6 +35,9 @@ body {
   transition: all 0.4s ease;
 }
 
+.span {
+  color: white; 
+}
 
 .hologram {
   border: 2px solid rgba(0, 255, 255, 0.5);
@@ -101,9 +104,9 @@ body {
   100% { top: 110%; }
 }
 
-.bt1{
+.botao1{
     margin-top: 40px;
 }
-.bt2{
+.botao2{
     margin-top: 20px;
 }
